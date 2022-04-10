@@ -1,8 +1,5 @@
 ### Olá! Eu sou o Nader Farhat 👋
 
-- 🌱 Atualmente estou aprendendo Vue.js!
-- 📚 Atualmente estou fazendo mestrado em Engenharia Elétrica, onde a linha de pesquisa é Visão computacional.
-
  <div>
   <a href="https://github.com/NaderFarhat">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaderFarhat&layout=compact&langs_count=7&theme=dracula"/>
