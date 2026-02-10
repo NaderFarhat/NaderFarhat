@@ -1,9 +1,5 @@
 ### Olá! Eu sou o Nader Farhat 👋
 
- <div>
-  <a href="https://github.com/NaderFarhat">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaderFarhat&layout=compact&langs_count=7&theme=dracula"/>
-</div>
   
   ### Tecnologias:
    <div style="display: inline_block">
